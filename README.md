@@ -1,0 +1,1 @@
+**Research Question**: To determine how the choice of missing-data handling method interacts with variable-selection strategy to affect predictor recovery, model stability and out-of-sample predictive performance when developing a clinical prediction model.
